@@ -16,10 +16,12 @@
 * {
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+  /* font-family: "Indie Flower"; */
 }
 
 body {
   background-color: var(--dracula-black);
+  /* transform: scale(0.8); */
 }
 
 h1 {
