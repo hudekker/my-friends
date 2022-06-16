@@ -1,4 +1,4 @@
-// globals variables
+// globals
 let picNum = 1;
 let picMin = 1;
 let picMax = document.querySelectorAll("img").length;
